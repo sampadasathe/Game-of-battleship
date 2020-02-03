@@ -16,6 +16,7 @@ After each player has hidden his fleet, players alternate taking shots at each o
 ## Hunt and Target strategy
 
 I have implemented the hunt and target strategy where once I find a battleship on the board, in every turn I try and find its next position till its completely eliminated. In the code, I am tracing the the board using alternate diagonal strategy.
+![Hunt and target strategy](https://github.com/sampadasathe/Game-of-battleship/blob/master/Hunt%20and%20target.jpg)
 
 ## References
 http://datagenetics.com/blog/december32011/index.html
